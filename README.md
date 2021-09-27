@@ -20,6 +20,6 @@
 </div><br>
 
 <div>
-	Profile idea by [Zykkl](https://github.com/Zykkl)
+	Profile idea by Zykkl (https://github.com/Zykkl)
 
   ![Snake animation](https://github.com/zykkl/zykkl/blob/output/github-contribution-grid-snake.svg)
