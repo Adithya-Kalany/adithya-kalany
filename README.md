@@ -19,7 +19,8 @@
 	<a href="https://reddit.com/u/adithyakalany"><img src="https://img.shields.io/badge/Reddit-8B89CC?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </div><br>
 
-<div>
-	Profile idea by Zykkl (https://github.com/Zykkl)
+	
 
   ![Snake animation](https://github.com/zykkl/zykkl/blob/output/github-contribution-grid-snake.svg)
+  
+  Profile idea by Zykkl (https://github.com/Zykkl)
