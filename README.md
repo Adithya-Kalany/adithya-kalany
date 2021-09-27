@@ -17,8 +17,8 @@
 <div>
 	<a href="https://www.youtube.com/c/adithyakalany"><img src="https://img.shields.io/badge/Youtube-2CA5E0?style=for-the-badge&logo=youtube&logoColor=white"></a>
 	<a href="https://reddit.com/u/adithyakalany"><img src="https://img.shields.io/badge/Reddit-8B89CC?style=for-the-badge&logo=reddit&logoColor=white"></a>
-</div>
-##
+</div><br>
+
 <div>
 	Profile idea by [Zykkl](https://github.com/Zykkl)
 
