@@ -1,8 +1,8 @@
 # Heyo! I'm Adithya 👋
 
 <div>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=adithya-kalany&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-kalany&hide=css&layout=compact&theme=vue-dark">
+	<img height="140em" src="https://github-readme-stats.vercel.app/api?username=adithya-kalany&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
+	<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-kalany&hide=css&layout=compact&theme=vue-dark">
 </div><br>
 
 <div>
