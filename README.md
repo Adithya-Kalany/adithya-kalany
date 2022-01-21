@@ -23,4 +23,4 @@
 
   ![Snake animation](https://github.com/zykkl/zykkl/blob/output/github-contribution-grid-snake.svg)
   
-  Profile idea by Zykkl (https://github.com/Zykkl)
+
