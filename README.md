@@ -1,8 +1,8 @@
-# Heyo! I'm Adithya 👋
+# Heyo! I'm Kal 👋
 
 <div>
-	<img height="140em" src="https://github-readme-stats.vercel.app/api?username=adithya-kalany&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
-	<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-kalany&hide=css&layout=compact&theme=vue-dark">
+	<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Im-Kal&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
+	<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kal&hide=css&layout=compact&theme=vue-dark">
 </div><br>
 
 <div>
@@ -14,10 +14,7 @@
 </div>
 
 ##
-<div>
-	<a href="https://www.youtube.com/c/adithyakalany"><img src="https://img.shields.io/badge/Youtube-2CA5E0?style=for-the-badge&logo=youtube&logoColor=white"></a>
-	<a href="https://reddit.com/u/adithyakalany"><img src="https://img.shields.io/badge/Reddit-8B89CC?style=for-the-badge&logo=reddit&logoColor=white"></a>
-</div><br>
+<br>
 
 	
 
