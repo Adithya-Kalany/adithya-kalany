@@ -1,4 +1,4 @@
-# Heyo! I'm Kal 👋
+# Hey! 👋
 
 <div align="center">
 	<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Im-Kal&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
