@@ -11,7 +11,7 @@
 	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> •
 	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> •
 	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" height="32em" width="32em" src="https://i.imgur.com/MPsnN5D.png">
+	
 </div>
 
 ##
